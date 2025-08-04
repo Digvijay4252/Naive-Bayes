@@ -5,7 +5,7 @@
 
 ## Naive Bayes Classifier – Student Pass Predictor
 
-## This project implements a Naive Bayes classification model using Flask and scikit-learn. It predicts whether a student will pass or fail based on academic-related features provided by the user through a web interface.
+ This project implements a Naive Bayes classification model using Flask and scikit-learn. It predicts whether a student will pass or fail based on academic-related features provided by the user through a web interface.
 
 ## How It Works
 
