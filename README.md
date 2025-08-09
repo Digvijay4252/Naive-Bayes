@@ -61,9 +61,19 @@ Open in browser
 
 Visit: http://localhost:10000
 
+---
 ## Screenshots
 
-<img width="889" height="743" alt="image" src="https://github.com/user-attachments/assets/78ae0187-671e-4e6b-b586-a1610f5af35d" />
+### Step 1
+<img width="1894" height="910" alt="image" src="https://github.com/user-attachments/assets/9be7769d-dbcb-40e8-808c-30376424d7b0" />
+
+### Step 2
+<img width="1894" height="900" alt="image" src="https://github.com/user-attachments/assets/786e4f96-e1d0-4ed6-8e9d-c704e3bcc1c2" />
+
+### Step 3
+<img width="1898" height="903" alt="image" src="https://github.com/user-attachments/assets/48629dd5-1899-4895-803f-3213074ea78d" />
+
+---
 
 ## Future Improvements
 
