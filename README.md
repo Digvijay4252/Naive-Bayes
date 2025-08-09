@@ -5,7 +5,8 @@
 
 ## Naive Bayes Classifier – Student Pass Predictor
 
- This project implements a Naive Bayes classification model using Flask and scikit-learn. It predicts whether a student will pass or fail based on academic-related features provided by the user through a web interface.
+ This project implements a Gaussian Naive Bayes classifier to predict whether an activity (e.g., playing tennis) will occur based on weather conditions.
+It includes a simple Flask web interface for making predictions from user input.
 
 ## How It Works
 
@@ -27,11 +28,10 @@ Naive-Bayes/
 ├── train_model.py           # Naive Bayes training script
 ├── model.pkl                # Trained model file
 ├── encoders.pkl             # Label encoders for features and target
-├── student_data.csv         # Dataset used for training
+├── weather_play.csv          # Dataset used for training
 ├── templates/
 │   └── index.html           # Frontend for input form
-└── static/
-    └── style.css            # (optional) Custom styles
+
 ```
 
 ---
@@ -77,10 +77,10 @@ Visit: http://localhost:10000
 
 ## Future Improvements
 
-Auto-detect feature types for encoding
+Add more weather-related features.
 
-Add support for numeric features
+Show prediction confidence/probabilities.
 
-Display prediction probability
+Provide batch prediction from CSV files.
 
-Upload dataset for bulk prediction
+Improve UI styling and responsiveness.
